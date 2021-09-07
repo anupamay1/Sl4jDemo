@@ -1,0 +1,2 @@
+2021-09-07 19:08:49,912 INFO com.slf4jlogging.Slf4jloggingApplication [main] Started Slf4jloggingApplication in 5.571 seconds (JVM running for 7.214)
+2021-09-07 19:09:01,668 ERROR com.slf4jlogging.HomeController [http-nio-8080-exec-1] hello error
